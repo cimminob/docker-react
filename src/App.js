@@ -8,9 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Goodbye! And Hello!
-          Good bye again!
-          Auto update detection is working!
+          I was changed on the Feature Branch
         </p>
         <a
           className="App-link"
